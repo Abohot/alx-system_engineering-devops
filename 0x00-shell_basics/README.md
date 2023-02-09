@@ -1,1 +1,1 @@
-rm /tmp/my_first_directory/betty
+Back to ther future
